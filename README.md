@@ -4,7 +4,7 @@
 A lightweight offline voice input tool for Windows. Powered by `CrispASR` and `Qwen 3 ASR`.
 The windows built in voice input is not good in Cantonese, so i made one with AI.
 
-> *Note: This project was mostly vibe-coded using Gemini 3.6 Flash.*
+> *Note: This project was mostly vibe-coded using Gemini 3.6 Flash and Qwen3.8-Flash-Next*
 
 ---
 

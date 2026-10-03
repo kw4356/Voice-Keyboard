@@ -1,3 +1,5 @@
+[中文](https://github.com/kw4356/Voice-Keyboard/blob/main/readme-zh.md)
+
 # Voice-Keyboard
 A lightweight offline voice input tool for Windows. Powered by `CrispASR` and `Qwen 3 ASR`.
 The windows built in voice input is not good in Cantonese, so i made one with AI.

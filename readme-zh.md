@@ -2,7 +2,7 @@
 一款專為 Windows 設計的輕量級離線語音輸入工具，由 `CrispASR` 與 `Qwen 3 ASR` 驅動。  
 由於 Windows 內建的語音輸入對廣東話支援不佳，因此我利用 AI 開發了這款工具。
 
-> *注意：本專案主要使用 Gemini 3.6 Flash 以 vibe-coding 方式開發。*
+> *注意：本專案主要使用 Gemini 3.6 Flash & Qwen3.8-Flash-Next 以 vibe-coding 方式開發。*
 
 ---
 

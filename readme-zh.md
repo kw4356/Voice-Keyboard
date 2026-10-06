@@ -40,7 +40,7 @@ VoiceKeyboard/
 ---
 
 ## 🚀 快速上手
-1. 下載並解壓縮檔案
+1. [下載](https://github.com/kw4356/Voice-Keyboard/releases)並解壓縮檔案
 2. 執行 `VoiceKeyboard.exe`（EN 為英文介面，ZH 為中文介面）
 3. 開始使用：
    - 按住快捷鍵（預設：`Alt + Caps Lock`）開始說話。

@@ -42,10 +42,13 @@ VoiceKeyboard/
 ---
 
 ## 🚀 Get Started
-1,Download and Unzip
+1,[Download](https://github.com/kw4356/Voice-Keyboard/releases) and Unzip
+
 2,Run VoiceKeyboard.exe (EN for English UI ; ZH for Chinese UI)
+
 3,Start Using:
 -Press and hold the hotkey(default:alt+caps lock) to speak.
+
 -Release hotkey , it will automatically convert your voice to text and paste it into the active cursor location.
 
 ---
